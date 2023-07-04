@@ -30,7 +30,7 @@
   </main>
 
   <footer>
-    <p>&copy; My Profile Links</p>
+    <p>My Profile Links</p>
   </footer>
 </body>
 
