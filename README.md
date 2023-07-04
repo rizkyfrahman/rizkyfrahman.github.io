@@ -17,7 +17,7 @@
 
   <main>
     <section class="profile-card">
-      <img src="img/profile-small.jpg.jpg" alt="My Profile Picture">
+      <img src="img/profile-small.jpg" alt="My Profile Picture">
       <h2>Rizky Fathur Rahman</h2>
       <ul class="social-links">
         <li><a href="https://www.facebook.com/rizky.n.rahman.3">Facebook</a></li>
